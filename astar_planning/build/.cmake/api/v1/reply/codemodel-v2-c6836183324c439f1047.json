@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-686a07fe3cd4d27b85e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "astar_planning",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "astar_planning_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-astar_planning_uninstall-Debug-b06eabbcfb7867cb1a31.json",
+					"name" : "astar_planning_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "goal_sub_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-goal_sub_node-Debug-fc250d317036c0bd8bcc.json",
+					"name" : "goal_sub_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "init_sub_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-init_sub_node-Debug-29b8d36e1b10ddccce81.json",
+					"name" : "init_sub_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_sub_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_sub_node-Debug-4771e799212470eacd51.json",
+					"name" : "map_sub_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-985c9df7246238161e30.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ruiii/ROS2/myNav_ws/src/astar_planning/build",
+		"source" : "/home/ruiii/ROS2/myNav_ws/src/astar_planning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
